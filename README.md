@@ -40,5 +40,6 @@ The project is divided into several main sections:
 
 ## How to Use
 1. Clone this repository
-2. Install the required libraries (requirements.txt provided)
+2. Install the required libraries (requirements.txt provided):
+      pip install -r requirements.txt 
 3. Run the Jupyter notebooks in the specified order
